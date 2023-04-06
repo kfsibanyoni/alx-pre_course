@@ -1,1 +1,3 @@
-git fetch origin # fetch all changes
+git checkout origin master
+git fetch origin
+git pull origin master
